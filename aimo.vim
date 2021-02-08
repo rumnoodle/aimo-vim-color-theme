@@ -19,13 +19,13 @@ function! Coloring(group, guibg, guifg, gui, ctermbg, ctermfg)
     execute highlightstr
 endfunction
 
-call Coloring("Comment", "NONE", "#585858", "NONE", "NONE", "240")
+call Coloring("Comment", "NONE", "#585858", "NONE", "NONE", "241")
 call Coloring("Constant", "NONE", "#008787", "NONE", "NONE", "30")
 call Coloring("String", "NONE", "#00875f", "NONE", "NONE", "29")
 call Coloring("Character", "NONE", "#00875f", "NONE", "NONE", "29")
 call Coloring("Identifier", "NONE", "#a8a8a8", "NONE", "NONE", "248")
 call Coloring("Function", "NONE", "#5fafff", "NONE", "NONE", "75")
-call Coloring("Statement", "NONE", "#585858", "NONE", "NONE", "240")
+call Coloring("Statement", "NONE", "#585858", "NONE", "NONE", "241")
 call Coloring("PreProc", "NONE", "#5fafaf", "NONE", "NONE", "73")
 call Coloring("Type", "NONE", "#875f87", "NONE", "NONE", "96")
 call Coloring("Special", "NONE", "#008787", "NONE", "NONE", "30")
