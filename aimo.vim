@@ -30,4 +30,5 @@ call Coloring("PreProc", "NONE", "#5fafaf", "NONE", "NONE", "73")
 call Coloring("Type", "NONE", "#875f87", "NONE", "NONE", "96")
 call Coloring("Special", "NONE", "#008787", "NONE", "NONE", "30")
 call Coloring("StatusLine", "#a8a8a8", "#00005f", "NONE", "248", "17")
+call Coloring("MatchParen", "NONE", "#d70000", "NONE", "NONE", "160")
 
